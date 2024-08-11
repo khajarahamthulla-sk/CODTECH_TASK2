@@ -12,26 +12,35 @@
 
 <h1>Overview of the Project</h1>
 
-<h3>Project : Building a Real-time Chat Application with User Authentication and Chat Rooms</h3>
+<h3>Project :Building a Social Media Application with User Authentication and Chat Rooms</h3>
 
 <h3>Objective</h3>
 
-<p>Design and develop a scalable, secure, and user-friendly real-time chat application that enables users to communicate through public chat rooms and private messaging, with robust user authentication and authorization, using a combination of React or Angular for the frontend, Node.js with (link unavailable) for the backend, and a database for storing chat history.
+<p>Design and develop a scalable, user-friendly, and secure social media application that enables users to create profiles, connect with others, and engage in real-time discussions through chat rooms, while ensuring robust user authentication and data protection
 </p>
 
 <h3>Key Activities</h3>
 
-- Frontend Setup: Set up a new React & Design the user interface for the chat application
-      
-- User Authentication: Implement user authentication using a library like Auth0 or Okta (frontend) & Implement user authentication using Passport.js (backend)
-  
-- Real-time Messaging: Real-time communication between user to onther user
-  
-- Chat Room Functionality: Create chat room component (frontend) & Implement chat room functionality (backend)
-    
-- Private Messaging: Implement private messaging functionality (frontend and backend)
 
-- Database Integration: Design a database schema to store chat history, user information, and chat room data
+Requirements Gathering
+<br>
+- Define project scope and objectives
+- Identify target audience and user needs
+- Determine functional and non-functional requirements
+  <br>
+Front-end Development
+- Create user-friendly and responsive UI/UX
+- Develop profile creation and management features
+- Implement chat room interface and messaging functionality
+  <br>
+Back-end Development
+- Develop server-side logic and API integration
+- Implement user authentication and authorization
+- Design and implement database
+-User Engagement and Community Building
+- Plan user engagement strategies and content creation
+
+
   
 
 <h3 align="left">Connect with me:</h3>
